@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    background: #f1f1f1;
+    font-size: 42px;
+    text-align: center;
+}
+
+h2 {
+    background: #ffa600;
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: left;
+}
+
+ul, ol {
+    background: #f0f0f0;
+    color: #ffa600;
+}
+
+li {
+    font-weight: bold;
+    font-size: 18px;;
+    color: #000;
+}
+
+a {
+    text-align: center;
+}
